@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://volnour.github.io/2024/04/27/%E7%83%99%E5%8D%B0%E7%89%A9%E8%AA%9E/</loc>
+    
+    <lastmod>2024-04-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://volnour.github.io/2024/04/12/%E9%BB%92%E9%B3%A5%E3%81%AE%E8%B8%8A%E3%82%8A/</loc>
     
     <lastmod>2024-04-27</lastmod>
@@ -234,6 +243,13 @@
   
   <url>
     <loc>https://volnour.github.io/tags/Win-Variation/</loc>
+    <lastmod>2024-04-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://volnour.github.io/tags/YU-GI-OH/</loc>
     <lastmod>2024-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
